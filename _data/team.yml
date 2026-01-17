@@ -37,8 +37,9 @@
   email: ""
   website: ""
   github: ""
-  order: 4
   orcid: "https://orcid.org/0009-0001-2704-6119"
+  order: 4
+  
 
 - name: "Achyudhan Kutuva"
   role: "PhD Student"
